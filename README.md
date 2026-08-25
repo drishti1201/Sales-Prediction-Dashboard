@@ -50,4 +50,4 @@ Superstore Sales Dataset
 
 **Drishti Yadav**
 
-NIT Raipur
+National Institute of Technology Raipur
