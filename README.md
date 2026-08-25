@@ -50,6 +50,4 @@ Superstore Sales Dataset
 
 **Drishti Yadav**
 
-B.Tech, Metallurgical and Materials Engineering
-
 NIT Raipur
