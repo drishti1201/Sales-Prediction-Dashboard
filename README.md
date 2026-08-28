@@ -21,7 +21,6 @@ This project predicts future sales using Machine Learning and provides an intera
 - NumPy
 - Scikit-learn
 - Plotly
-- Joblib
 
 ## Machine Learning Models
 
