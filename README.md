@@ -26,6 +26,9 @@ This project predicts future sales using Machine Learning and provides an intera
 
 - Random Forest Regressor
 - Gradient Boosting Regressor
+- Linear Regression
+- Decision Tree
+- XGBoost
 
 ## Dataset
 
