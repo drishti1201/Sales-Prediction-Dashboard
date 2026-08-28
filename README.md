@@ -43,10 +43,8 @@ Superstore Sales Dataset
 
 ## Future Improvements
 
-- XGBoost implementation
 - Deep Learning model
 - Cloud deployment
-- Real-time database integration
 
 ## Author
 
